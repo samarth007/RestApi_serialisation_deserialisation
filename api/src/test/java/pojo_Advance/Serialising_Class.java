@@ -16,22 +16,9 @@ public class Serialising_Class {
 		s.setUrl("https://reqres.in/#support-heading");
 		p.setSupport(s);
 		
-		Data d = new Data();
-		d.setEmail("lawson@reqres.in");
-		d.setFirst_name("Michael");
-		d.setLast_name("Lawson");
-		d.setAvatar("https://reqres.in/img/faces/7-image.jpg");
-		d.setId(2);
-		
-		Data d1 = new Data();
-		d1.setEmail("lawson@reqres.in");
-		d1.setFirst_name("Michael");
-		d1.setLast_name("Lawson");
-		d1.setAvatar("https://reqres.in/img/faces/7-image.jpg");
-		d1.setId(2);
 		ArrayList<Data> al = new ArrayList<Data>();
-		al.add(0, d);
-		al.add(1, d1);
+		al.add(0, Data_ArrayList.Create_Object(22, "tvf", "cubicles", "unkno@yahoo.com", "nulll"));
+		al.add(1, Data_ArrayList.Create_Object(7, "netflix", "lime", "like@yahoo.com", "cobra"));
 		
 		p.setData(al);
 		

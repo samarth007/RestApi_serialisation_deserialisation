@@ -2,12 +2,12 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-01-07T15:48:52 IST" name="Default suite" finished-at="2021-01-07T15:48:57 IST" duration-ms="5044">
+  <suite started-at="2021-01-09T15:53:59 IST" name="Default suite" finished-at="2021-01-09T15:54:07 IST" duration-ms="7708">
     <groups>
     </groups>
-    <test started-at="2021-01-07T15:48:52 IST" name="Default test" finished-at="2021-01-07T15:48:57 IST" duration-ms="5044">
+    <test started-at="2021-01-09T15:53:59 IST" name="Default test" finished-at="2021-01-09T15:54:07 IST" duration-ms="7708">
       <class name="pojo_Advance.Test_Class">
-        <test-method signature="Serialising()[pri:0, instance:pojo_Advance.Test_Class@1cbbffcd]" started-at="2021-01-07T15:48:52 IST" name="Serialising" finished-at="2021-01-07T15:48:57 IST" duration-ms="4983" status="PASS">
+        <test-method signature="Serialising()[pri:0, instance:pojo_Advance.Test_Class@1cbbffcd]" started-at="2021-01-09T15:53:59 IST" name="Serialising" finished-at="2021-01-09T15:54:07 IST" duration-ms="7643" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Serialising -->
